@@ -1,2 +1,7 @@
 new file
 edit in github
+
+What is the difference between add, commit, and push?
+
+Add can add the files to the staging area,Commit will submit the content of the staging area to the local reposity.
+Push will submit the content of the local reposity to the remote reposity.
